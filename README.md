@@ -7,7 +7,7 @@ This case is simply practice, no crazy breakthrough.
 
 #### The Data
 
-![](https://raw.githubusercontent.com/Hugo-Nattagh/ScrapGod/master/Images/Logo.png)
+![](https://raw.githubusercontent.com/Hugo-Nattagh/GooglePlay_LogisticRegression/master/resources/Dashboard.png)
 
 [My dashboard on Tableau](https://public.tableau.com/profile/hugo.nattagh#!/vizhome/Classeur1_15513265005410/Tableaudebord1)
 
@@ -17,6 +17,6 @@ Interesting stuff!
 #### What's going on
 
 The goal was to predict if an app would be free or paid when installed.  
-I took out the «Price» feature because that would have bring no challenge whatsoever.  
+I took out the Â«PriceÂ» feature because that would have bring no challenge whatsoever.  
 I did some typical data cleaning, feature selection, feature engineering, data processing...  
 At the end, I reached a RMSE of 0.276.
